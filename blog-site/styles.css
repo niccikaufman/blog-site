@@ -12,9 +12,48 @@ body {
   background-color: orange;
   text-align: center;
   font-size: larger;
-
+  padding-right: 5px;
 }
 
-p {
+.username {
+  font-size: smaller;
+  color: brown;
+
+}
+.title {
   color: tan;
+  text-align: right;
+}
+
+.icon {
+  height: 15px;
+  width: 15px;
+}
+
+.post-header {
+  color: olivedrab;
+  font-size: 20pt;
+  text-align: center;
+
+}
+.post-body {
+  width: 700px;
+  height: 350px;
+  padding: 5px;
+  border: 1px dashed tan;
+  box-sizing: content-box;
+  color: bisque;
+  margin-left: 25%;
+  margin-right: 25%;
+  
+}
+
+.post-image {
+  height: 40px;
+  width: 40px;
+  margin-right: 20%;
+}
+
+.post-footer {
+  color: orangered;
 }
