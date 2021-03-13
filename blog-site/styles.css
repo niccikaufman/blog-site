@@ -21,7 +21,7 @@ body {
 }
 .title {
   color: tan;
-  text-align: right;
+  text-align: center;
 }
 
 .icon {
@@ -61,4 +61,10 @@ ul {
   list-style-type: square;
   float: left;
   text-align: left;
+}
+p.summary {
+  color: white;
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
 }
